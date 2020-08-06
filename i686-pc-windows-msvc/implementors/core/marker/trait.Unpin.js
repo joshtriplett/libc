@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["libc"] = [{"text":"impl Unpin for stat","synthetic":true,"types":[]},{"text":"impl Unpin for utimbuf","synthetic":true,"types":[]},{"text":"impl Unpin for tm","synthetic":true,"types":[]},{"text":"impl Unpin for timeval","synthetic":true,"types":[]},{"text":"impl Unpin for timespec","synthetic":true,"types":[]},{"text":"impl Unpin for sockaddr","synthetic":true,"types":[]},{"text":"impl Unpin for timezone","synthetic":true,"types":[]},{"text":"impl Unpin for FILE","synthetic":true,"types":[]},{"text":"impl Unpin for fpos_t","synthetic":true,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

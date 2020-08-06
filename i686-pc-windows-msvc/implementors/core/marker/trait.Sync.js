@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["libc"] = [{"text":"impl Sync for stat","synthetic":true,"types":[]},{"text":"impl Sync for utimbuf","synthetic":true,"types":[]},{"text":"impl Sync for tm","synthetic":true,"types":[]},{"text":"impl Sync for timeval","synthetic":true,"types":[]},{"text":"impl Sync for timespec","synthetic":true,"types":[]},{"text":"impl Sync for sockaddr","synthetic":true,"types":[]},{"text":"impl Sync for timezone","synthetic":true,"types":[]},{"text":"impl Sync for FILE","synthetic":true,"types":[]},{"text":"impl Sync for fpos_t","synthetic":true,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

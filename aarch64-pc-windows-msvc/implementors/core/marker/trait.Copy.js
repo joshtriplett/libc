@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["libc"] = [{"text":"impl Copy for timezone","synthetic":false,"types":[]},{"text":"impl Copy for stat","synthetic":false,"types":[]},{"text":"impl Copy for utimbuf","synthetic":false,"types":[]},{"text":"impl Copy for tm","synthetic":false,"types":[]},{"text":"impl Copy for timeval","synthetic":false,"types":[]},{"text":"impl Copy for timespec","synthetic":false,"types":[]},{"text":"impl Copy for sockaddr","synthetic":false,"types":[]},{"text":"impl Copy for FILE","synthetic":false,"types":[]},{"text":"impl Copy for fpos_t","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
